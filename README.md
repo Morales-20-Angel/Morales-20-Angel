@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Morales-20-Angel
-- 👀 I’m interested in Developed frontend
+- 👀 I’m interested in IA
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on proyect in developed web
 - 📫 How to reach me ...
